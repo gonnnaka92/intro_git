@@ -1,7 +1,8 @@
 gitの練習をしていきます。
 基本的なワークフローを学習します。
-・git add
-・git commit
-・git rm
-・git status
-・git diff
+・git add / ステージに乗せる
+・git commit / コミットする
+・git rm / 削除する
+・git status / 現在の状態を確認する
+・git diff / 差分を確認する
+・git log / 変更確認する
