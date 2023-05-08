@@ -5,4 +5,5 @@ gitの練習をしていきます。
 ・git rm / 削除する
 ・git status / 現在の状態を確認する
 ・git diff / 差分を確認する
-・git log / 変更確認する
+・git log / 変更を確認する
+・git push / プッシュする
