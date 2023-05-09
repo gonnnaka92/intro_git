@@ -7,3 +7,4 @@ gitの練習をしていきます。
 ・git diff / 差分を確認する
 ・git log / 変更を確認する
 ・git push / プッシュする
+・gitignore / 管理しないファイルを外す
