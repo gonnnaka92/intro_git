@@ -8,3 +8,7 @@ gitの練習をしていきます。
 ・git log / 変更を確認する
 ・git push / プッシュする
 ・gitignore / 管理しないファイルを外す
+・git rm [file]/ ローカルファイルを削除する
+・git rm --cached [file]/ gitのファイルのみ削除する
+・git reset [file] / gitの管理を戻す
+・git checkout [file] / gitの管理もローカルファイルも戻す
